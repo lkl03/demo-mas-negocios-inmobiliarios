@@ -1,2 +1,7 @@
-# demo-mas-negocios-inmobiliarios
-Demo web para MAS Negocios Inmobiliarios — diseñada por eterlab.
+# MAS Negocios Inmobiliarios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
